@@ -352,7 +352,7 @@ display: flex; flex-direction: column; row-gap: 8px;
 }
 
 .descripton h3{
-  font-size: 28px; font-weight: 400;
+  font-size: 24px; font-weight: 400;
 }
 
 .list-card{
@@ -364,7 +364,7 @@ display: flex; flex-direction: column; row-gap: 8px;
 }
 
 .list h4{
-  font-size: 20px; font-weight: 400;
+  font-size: 18px; font-weight: 400;
 }
 
 /* footer */
